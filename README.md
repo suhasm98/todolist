@@ -16,4 +16,9 @@ You may also see any lint errors in the console.
 
 ## Todo List
 
-A list of tasks you need to complete or things that you want to do.
+A list of tasks you need to complete or things that you want to do.\
+ i. List of todos.\
+ ii. Add Todo form.\
+ iii.Edit, Delete and Mark done all items.
+
+![screenshot-localhost_3000-2023 01 26-19_34_10](https://user-images.githubusercontent.com/120901971/214855629-f31fa5eb-9b48-4b7b-b3dd-6c14f700174b.png)
